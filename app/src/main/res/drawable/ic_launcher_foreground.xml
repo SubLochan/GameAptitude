@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.8"
+        android:scaleY="1.8"
+        android:translateX="32"
+        android:translateY="32">
+        <!-- Brain / Game Controller Icon in Light Blue / Gold -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M12,3c-4.97,0 -9,4.03 -9,9 0,2.12 1.62,3.89 3.7,4.36L5.27,19.27c-0.19,0.57 0.23,1.13 0.83,1.13h2.17c0.32,0 0.61,-0.18 0.75,-0.47l1.06,-2.12h3.84l1.06,2.12c0.14,0.29 0.43,0.47 0.75,0.47h2.17c0.6,0 1.02,-0.56 0.83,-1.13l-1.43,-2.91C19.38,15.89 21,14.12 21,12c0,-4.97 -4.03,-9 -9,-9zM8.5,12c-0.83,0 -1.5,-0.67 -1.5,-1.5S7.67,9 8.5,9s1.5,0.67 1.5,1.5S9.33,12 8.5,12zm7,0c-0.83,0 -1.5,-0.67 -1.5,-1.5S14.67,9 15.5,9s1.5,0.67 1.5,1.5S16.33,12 15.5,12z"/>
+    </group>
+</vector>

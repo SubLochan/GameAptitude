@@ -1,0 +1,6 @@
+{
+  "name": "MNC Gamification Assessments",
+  "description": "Interactive MNC recruitment gamification assessment games including Grid Challenge, Motion Challenge, NumBubbles, Short Cuts, Deductive & Inductive Logic, Resemble, Tally Up, and Crypt Arithmetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
